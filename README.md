@@ -2,7 +2,7 @@
 
 ## Oi, tudo tranquilo?
 
-*Meu nome é Thiago Conte e sou estudante de Sistemas de Informação no Centro de Informática (CIn) na Universidade Federal de Pernambuco (UFPE). Ainda não tive a chance de colocar minhas habilidades à prova no mercado de trabalho, porém mantenho sempre o aprimoramento das minhas habilidades como desenvolvedor.*
+*Meu nome é Thiago Conte e sou estudante de Sistemas de Informação no Centro de Informática (CIn) na Universidade Federal de Pernambuco (UFPE). Estou em busca de uma oportunidade para colocar minhas habilidades à prova no mercado de trabalho, porém mantenho sempre o aprimoramento das minhas habilidades como desenvolvedor.*
 
 ## Skills
 
