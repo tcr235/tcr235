@@ -2,7 +2,7 @@
 
 ## Hello there, stranger
 
-*My name is Thiago Conte and I am an Information Systems student at the Federal University of Pernambuco (UFPE). I currently live in Recife, Brazil and my goal is to evolve in my career as a developer.*
+*My name is Thiago Conte Rocha and I have a degree in Information Systems from the Federal University of Pernambuco (UFPE). I currently live in Recife, Brazil and my goal is to evolve in my career as a developer.*
 
 I worked at Raid Hut (a game publisher from Brazil) for a year developing fullstack solutions as an intern using C#, .NET, AWS, MySQL and React.
 
@@ -10,9 +10,7 @@ I worked at Raid Hut (a game publisher from Brazil) for a year developing fullst
 
 ### Languages
 
-![.NET](https://img.shields.io/badge/DotNet-000?style=for-the-badge&logo=dotnet) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tcr235&layout=compact&bg_color=000&border_color=FFF&title_color=FFF&text_color=FFF)
+![.NET](https://img.shields.io/badge/DotNet-000?style=for-the-badge&logo=dotnet) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![C#](https://img.shields.io/badge/Csharp-000?style=for-the-badge&logo=c)
 
 ### Frameworks/Environments
 
